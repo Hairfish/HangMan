@@ -5,7 +5,7 @@
 **Team:** <Teamnaam>  
 **Spelvolgorde & contact:**
 1. <Min 1> – <m1nst3rr@gmail.com>
-2. <Naam 2> – <email2@example.com>
+2. <joeri 2> – <email2@example.com>
 3. <Naam 3> – <email3@example.com>
 4. <Naam 4> – <email4@example.com>
 
@@ -25,4 +25,4 @@
 ## Beurtenlog
 - beurt1: <Min> gokt "b" goed
 - (Git-master vult hier reactie in: goed/fout + updates)
-- beurt2: ...
+- beurt2: <joeri> gokt "e" 
