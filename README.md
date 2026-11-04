@@ -5,7 +5,7 @@
 **Team:** <Teamnaam>  
 **Spelvolgorde & contact:**
 1. <Min 1> – <m1nst3rr@gmail.com>
-2. <joeri 2> – <email2@example.com>
+2. <joeri 2> – <joeriemmink@gmail.com>
 3. <Naam 3> – <email3@example.com>
 4. <Naam 4> – <email4@example.com>
 
