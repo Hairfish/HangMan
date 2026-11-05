@@ -13,7 +13,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| b | i | b | l | i | o | t | . | e | e | . | 
+| b | i | b | l | i | o | t | . | e | e | k | 
 | - | - | - | - | - | - | - | - | - | - | - | 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 
 
@@ -33,3 +33,4 @@
 - beurt7: <Min> gokt "o" goed
 - beurt8: <Joeri> gokt "n" fout
 - beurt9: <Amaya> gokt "u" fout
+- beurt10: <Min> gokt "k" goed
