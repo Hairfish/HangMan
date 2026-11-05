@@ -13,7 +13,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| b | i | b | l | i | o | t | . | e | e | k | 
+| b | i | b | l | i | o | t | h | e | e | k | 
 | - | - | - | - | - | - | - | - | - | - | - | 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 
 
@@ -25,13 +25,14 @@
 ## Beurtenlog
 - beurt1: <Min> gokt "b" goed
 - (Git-master vult hier reactie in: goed/fout + updates)
-- beurt2: <joeri> gokt "e" goed
+- beurt2: <Joeri> gokt "e" goed
 - beurt3: <Amaya> gokt "a" fout
 - beurt4: <Min> gokt "l" goed
-- beurt5: <joeri> gokt "t" goed
+- beurt5: <Joeri> gokt "t" goed
 - beurt6: <Amaya> gokt "i" goed
 - beurt7: <Min> gokt "o" goed
 - beurt8: <Joeri> gokt "n" fout
 - beurt9: <Amaya> gokt "u" fout
 - beurt10: <Min> gokt "k" goed
 - beurt11: <Joeri> gokt "r" fout
+- beurt12: <Amaya> gokt "h" goed
