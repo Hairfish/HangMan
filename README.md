@@ -13,9 +13,9 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| b | . | b | . | . | . | . | . | . | . | . | . |
-| - | - | - | - | - | - | - | - | - | - | - | - |
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| b | . | b | . | . | . | . | . | e | e | . | 
+| - | - | - | - | - | - | - | - | - | - | - | 
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 
 
 ## Status
 ![status](images/1.png)
@@ -25,4 +25,4 @@
 ## Beurtenlog
 - beurt1: <Min> gokt "b" goed
 - (Git-master vult hier reactie in: goed/fout + updates)
-- beurt2: <joeri> gokt "e" 
+- beurt2: <joeri> gokt "e" goed
