@@ -32,3 +32,4 @@
 - beurt6: <Amaya> gokt "i" goed
 - beurt7: <Min> gokt "o" goed
 - beurt8: <Joeri> gokt "n" fout
+- beurt9: <Amaya> gokt "u" fout
