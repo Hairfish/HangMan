@@ -34,3 +34,4 @@
 - beurt8: <Joeri> gokt "n" fout
 - beurt9: <Amaya> gokt "u" fout
 - beurt10: <Min> gokt "k" goed
+- beurt11: <Joeri> gokt "r" fout
